@@ -1,0 +1,9 @@
+﻿city,gender,income,illness
+dallas,male,40367,no
+dallas,female,41524,yes
+dallas,male ,46373,yes
+nyc,male,98096,no
+nyc,female,102089,no
+nyc,female,100662,no
+nyc,male,117263,yes
+dallas,male,56645,no
